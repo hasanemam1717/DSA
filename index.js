@@ -7,4 +7,4 @@ const findStudents = (allStudent, studentName) => {
   }
 };
 
-findStudents(studentDatabase, "Emma");
+// findStudents(studentDatabase, "Emma");
